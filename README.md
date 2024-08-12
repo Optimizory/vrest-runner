@@ -2,7 +2,7 @@
 
 This repository is just an npm wrapper around `vrest-ng-cli` binary. `vrest-ng-cli` is a command line utility aim to perform various tasks through command line. As of now, it provides two commands:
 1. **Run Command**
-	1. Executes test cases on command line, which are created by [vREST NG](https://ng.vrest.io).
+	1. Executes test cases on command line, which are created by [vREST NG](https://vrest.io).
 	2. Run command can be used in any third party schedular like cron to schedule test cases.
 	3. Run command can be used in any continuous integration server like Jenkins, TeamCity, Azure Devops, CircleCI, TravisCI etc.
 
@@ -24,6 +24,7 @@ Simply download the binary from the table below:
 
 | Version | Linux | Mac OS | Windows | Alpine |
 | ------------- | ------------ | ------------| ----------- | ----------- |
+| 2.5.4 | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.4/vrest_ng_cli_linux_2_5_4) | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.4/vrest_ng_cli_mac_2_5_4) | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.4/vrest_ng_cli_win_2_5_4.exe) |[Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.4/vrest_ng_cli_alpine_2_5_4) |
 | 2.5.1 | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.1/vrest_ng_cli_linux_2_5_1) | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.1/vrest_ng_cli_mac_2_5_1) | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.1/vrest_ng_cli_win_2_5_1.exe) |[Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.1/vrest_ng_cli_alpine_2_5_1) |
 | 2.5.0 | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.0/vrest_ng_cli_linux_2_5_0) | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.0/vrest_ng_cli_mac_2_5_0) | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.0/vrest_ng_cli_win_2_5_0.exe) |[Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.5.0/vrest_ng_cli_alpine_2_5_0) |
 | 2.4.0 | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.4.0/vrest_ng_cli_linux_2_4_0) | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.4.0/vrest_ng_cli_mac_2_4_0) | [Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.4.0/vrest_ng_cli_win_2_4_0.exe) |[Download](https://github.com/Optimizory/vrest-ng-cli/releases/download/v2.4.0/vrest_ng_cli_alpine_2_4_0) |
